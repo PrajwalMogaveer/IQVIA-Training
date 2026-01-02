@@ -69,7 +69,7 @@ public class SimpleLibraryApp {
                 System.out.println("Exiting...");
                 break;
             } else {
-               System.out.println("Invalid choice! Please select 0-3.");
+                System.out.println("Invalid choice! Please select 0-3.");
             }
         }
     }
